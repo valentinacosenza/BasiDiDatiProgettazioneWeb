@@ -2,7 +2,7 @@
 
 Il progetto contenuto in questo repository è stato realizzato per l'esame di **Basi di dati e laboratorio progettazione web** del Corso di Laurea Triennale in **Informatica Umanistica**.
 
-Il lavoro è stato sviluppato da **Valentina Cosenza** sotto la supervisione dei professori **Barbara Guidi** e **Andrea Michienzi**.
+Il lavoro è stato sviluppato da *Valentina Cosenza* sotto la supervisione dei professori *Barbara Guidi* e *Andrea Michienzi*.
 
 ## Obiettivi
 
